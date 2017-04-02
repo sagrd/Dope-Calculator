@@ -169,7 +169,7 @@ void MainWindow::on_copyright_clicked(){
     ui->upperLine->setText("");
     ui->lowerLine->setText("");
     ui->operation->setValue(0);
-    ui->upperLine->setText("© Sandeep Ghale");
+    ui->upperLine->setText("© Copyright info here.");
 }
 
 void MainWindow::on_squareRoot_clicked(){
